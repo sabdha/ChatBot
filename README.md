@@ -43,5 +43,7 @@ We can create personal questions and answers inside a folder and can be used alo
 Also there are many powerful bot development frameworks, tools, and platforms that can be used to implement smart chatbot programs.
 We can use machine learning with Python to develop a chatbot
 
-
+### References
+https://damanpreets26.medium.com/creating-a-simple-chatbot-with-flask-202083c1b3d6  
+https://thecleverprogrammer.com/2020/08/21/deploy-a-chatbot-with-python/  
 
