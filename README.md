@@ -35,7 +35,7 @@ Run the flask app “app.py” by running the following statement below in termi
 
 python app.py
 
-![alt text](https://github.com/sabdha/ChatBot/blob/main/20210216_231034_001.mp4)
+![alt text](https://github.com/sabdha/ChatBot/blob/main/Screenshot%202021-02-16%20232926.png)
 
 # Future works
 
