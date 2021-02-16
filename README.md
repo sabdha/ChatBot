@@ -30,6 +30,18 @@ This contains the code to deploy the chatbot using flask.
 ## index.html and style.css
 Create an html file inside a new folder, templates/index.html. The HTML and CSS work as the base of this chatbot
 
-Run the flask app “app.py” by running the following statement below in terminal
+# Run the app.py
+Run the flask app “app.py” by running the following statement below in terminal.
+
+python app.py
+
+
+
+# Future works
+
+We can create personal questions and answers inside a folder along with the chatterbot corpus.
+Also there are many powerful bot development frameworks, tools, and platforms that can be used to implement smart chatbot programs.
+We can use machine learning with Python to develop a chatbot
+
 
 
