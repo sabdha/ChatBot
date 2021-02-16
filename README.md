@@ -7,11 +7,11 @@ A simple Artificial Intelligent Chatbot
 3. CSS
 4. Chatterbot, Spacy, Flask, chatterbot-corpus (Python Libraries)
 
-Libraries installed
-pip install chatterbot
-pip install chatterbot-corpus
-python -m spacy download en_core_web_sm
-python -m spacy link en_core_web_lg en
+### Libraries installed
+pip install chatterbot  
+pip install chatterbot-corpus  
+python -m spacy download en_core_web_sm  
+python -m spacy link en_core_web_lg en  
 
 # Problem Statement
 Deploy a chatbot as a web application using Flask method, HTML and CSS. The chatterbot package in python is used to build a chatbot.
