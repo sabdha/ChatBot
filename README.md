@@ -44,6 +44,9 @@ Also there are many powerful bot development frameworks, tools, and platforms th
 We can use machine learning with Python to develop a chatbot
 
 ### References
+
+Part of this code is taken from
+
 https://damanpreets26.medium.com/creating-a-simple-chatbot-with-flask-202083c1b3d6  
 https://thecleverprogrammer.com/2020/08/21/deploy-a-chatbot-with-python/  
 
